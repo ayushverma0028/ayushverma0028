@@ -17,7 +17,7 @@
   <li>WordPress</li>
 </ul>
 
-<h4>📫 How to reach me:</h4>
+<h4>📫 How to reach me</h4>
 <p align="left"> <a href="https://www.linkedin.com/in/ayush-verma-808b311aa/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a> </p>
 <h4>⚡ Fun fact</h4>
   <ul>
