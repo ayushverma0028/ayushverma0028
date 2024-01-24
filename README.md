@@ -5,6 +5,7 @@
 <ul>
   <li>C</li>
   <li>C++</li>
+  <li>Python</li>
 </ul>
 
 <h4>Knowledge and Skills</h4>
@@ -15,6 +16,9 @@
   <li>JavaScript</li>
   <li>PHP</li>
   <li>WordPress</li>
+  <li>Web Development</li>
+  <li>Cyber Security</li>
+  <li>Networking</li>
 </ul>
 
 <h4>📫 How to reach me</h4>
